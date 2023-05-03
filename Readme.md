@@ -33,9 +33,9 @@ Sport - Sport
 Event - Event
 Medal - Gold, Silver, Bronze, or NA
 
-##Approach 
+## Approach 
 
-Steps that were followed:
+Steps followed are:
 
 1. Collection of Data
 2. Cleaning and Preprocessing the data
@@ -56,5 +56,3 @@ Models used:
 3. Decision Tree
 4. Random Forgest Regression
 5. XG Boost
-
-
