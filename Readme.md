@@ -4,13 +4,7 @@
 
 ## Objective of the Project:
 
-The Olympic Games are the world’s biggest multi-sport, athletic competitions with participation
-among 200 countries. The main objective of our project is to explore at how several aspects of
-the participant determine the effective impact on medal count in the Olympic games. This model
-will also help in predicting a country's success at the Olympic games while illustrating how the
-Olympic games have evolved over the years with how women's participation , representation
-and performance have improved over the years, as well as the involvement of different nations,
-sports, and events.
+The Olympic Games are the world’s biggest multi-sport, athletic competitions with participation among 200 countries. The main objective of our project is to explore at how several aspects of the participant determine the effective impact on medal count in the Olympic games. This model will also help in predicting a country's success at the Olympic games while illustrating how the Olympic games have evolved over the years with how women's participation , representation and performance have improved over the years, as well as the involvement of different nations, sports, and events.
 
 # Dataset 
 We have gathered the Dataset from Kaggle https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results
